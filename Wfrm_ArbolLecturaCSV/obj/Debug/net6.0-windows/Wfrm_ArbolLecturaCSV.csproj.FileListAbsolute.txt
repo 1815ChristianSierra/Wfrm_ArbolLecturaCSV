@@ -14,3 +14,4 @@ C:\Users\chrso\source\repos\Wfrm_ArbolLecturaCSV\obj\Debug\net6.0-windows\refint
 C:\Users\chrso\source\repos\Wfrm_ArbolLecturaCSV\obj\Debug\net6.0-windows\Wfrm_ArbolLecturaCSV.pdb
 C:\Users\chrso\source\repos\Wfrm_ArbolLecturaCSV\obj\Debug\net6.0-windows\Wfrm_ArbolLecturaCSV.genruntimeconfig.cache
 C:\Users\chrso\source\repos\Wfrm_ArbolLecturaCSV\obj\Debug\net6.0-windows\ref\Wfrm_ArbolLecturaCSV.dll
+C:\Users\chrso\source\repos\Wfrm_ArbolLecturaCSV\obj\Debug\net6.0-windows\Wfrm_ArbolLecturaCSV.sourcelink.json

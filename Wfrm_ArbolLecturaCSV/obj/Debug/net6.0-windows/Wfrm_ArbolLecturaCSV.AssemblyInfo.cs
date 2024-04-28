@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Wfrm_ArbolLecturaCSV")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45b3311959877882c182f00a0bac73745a55d6f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Wfrm_ArbolLecturaCSV")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Wfrm_ArbolLecturaCSV")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -58,7 +58,7 @@ namespace Wfrm_ArbolLecturaCSV
                     raizSub = raizSub.subarbolIzdo();
                 else
                     raizSub = raizSub.subarbolDcho();
-                //gIntSaltos++;
+                gIntSaltos++;
             }
             return raizSub;
         }

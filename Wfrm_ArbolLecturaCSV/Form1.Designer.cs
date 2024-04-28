@@ -165,6 +165,7 @@
             txtTotal.Location = new Point(220, 403);
             txtTotal.Multiline = true;
             txtTotal.Name = "txtTotal";
+            txtTotal.ReadOnly = true;
             txtTotal.Size = new Size(302, 35);
             txtTotal.TabIndex = 7;
             // 
@@ -173,6 +174,7 @@
             txtZona.Location = new Point(220, 345);
             txtZona.Multiline = true;
             txtZona.Name = "txtZona";
+            txtZona.ReadOnly = true;
             txtZona.Size = new Size(302, 35);
             txtZona.TabIndex = 6;
             // 
@@ -181,6 +183,7 @@
             txtParcial2.Location = new Point(220, 285);
             txtParcial2.Multiline = true;
             txtParcial2.Name = "txtParcial2";
+            txtParcial2.ReadOnly = true;
             txtParcial2.Size = new Size(302, 35);
             txtParcial2.TabIndex = 5;
             // 
@@ -189,6 +192,7 @@
             txtParcial1.Location = new Point(220, 224);
             txtParcial1.Multiline = true;
             txtParcial1.Name = "txtParcial1";
+            txtParcial1.ReadOnly = true;
             txtParcial1.Size = new Size(302, 35);
             txtParcial1.TabIndex = 4;
             // 
@@ -197,6 +201,7 @@
             txtCorreo.Location = new Point(220, 163);
             txtCorreo.Multiline = true;
             txtCorreo.Name = "txtCorreo";
+            txtCorreo.ReadOnly = true;
             txtCorreo.Size = new Size(302, 35);
             txtCorreo.TabIndex = 3;
             // 
@@ -205,6 +210,7 @@
             txtNombre.Location = new Point(220, 101);
             txtNombre.Multiline = true;
             txtNombre.Name = "txtNombre";
+            txtNombre.ReadOnly = true;
             txtNombre.Size = new Size(302, 35);
             txtNombre.TabIndex = 2;
             // 
@@ -213,6 +219,7 @@
             txtCarnet.Location = new Point(220, 41);
             txtCarnet.Multiline = true;
             txtCarnet.Name = "txtCarnet";
+            txtCarnet.ReadOnly = true;
             txtCarnet.Size = new Size(302, 35);
             txtCarnet.TabIndex = 1;
             // 
@@ -314,6 +321,7 @@
             txtTotalAVL.Location = new Point(220, 403);
             txtTotalAVL.Multiline = true;
             txtTotalAVL.Name = "txtTotalAVL";
+            txtTotalAVL.ReadOnly = true;
             txtTotalAVL.Size = new Size(302, 35);
             txtTotalAVL.TabIndex = 7;
             // 
@@ -322,6 +330,7 @@
             txtZonaAVL.Location = new Point(220, 345);
             txtZonaAVL.Multiline = true;
             txtZonaAVL.Name = "txtZonaAVL";
+            txtZonaAVL.ReadOnly = true;
             txtZonaAVL.Size = new Size(302, 35);
             txtZonaAVL.TabIndex = 6;
             // 
@@ -330,6 +339,7 @@
             txtParcial2AVL.Location = new Point(220, 285);
             txtParcial2AVL.Multiline = true;
             txtParcial2AVL.Name = "txtParcial2AVL";
+            txtParcial2AVL.ReadOnly = true;
             txtParcial2AVL.Size = new Size(302, 35);
             txtParcial2AVL.TabIndex = 5;
             // 
@@ -338,6 +348,7 @@
             txtParcial1AVL.Location = new Point(220, 224);
             txtParcial1AVL.Multiline = true;
             txtParcial1AVL.Name = "txtParcial1AVL";
+            txtParcial1AVL.ReadOnly = true;
             txtParcial1AVL.Size = new Size(302, 35);
             txtParcial1AVL.TabIndex = 4;
             // 
@@ -346,6 +357,7 @@
             txtCorreoAVL.Location = new Point(220, 163);
             txtCorreoAVL.Multiline = true;
             txtCorreoAVL.Name = "txtCorreoAVL";
+            txtCorreoAVL.ReadOnly = true;
             txtCorreoAVL.Size = new Size(302, 35);
             txtCorreoAVL.TabIndex = 3;
             // 
@@ -354,6 +366,7 @@
             txtNombreAVL.Location = new Point(220, 101);
             txtNombreAVL.Multiline = true;
             txtNombreAVL.Name = "txtNombreAVL";
+            txtNombreAVL.ReadOnly = true;
             txtNombreAVL.Size = new Size(302, 35);
             txtNombreAVL.TabIndex = 2;
             // 
@@ -362,6 +375,7 @@
             txtCarnetAVL.Location = new Point(220, 41);
             txtCarnetAVL.Multiline = true;
             txtCarnetAVL.Name = "txtCarnetAVL";
+            txtCarnetAVL.ReadOnly = true;
             txtCarnetAVL.Size = new Size(302, 35);
             txtCarnetAVL.TabIndex = 1;
             // 
